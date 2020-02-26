@@ -1,5 +1,12 @@
-# React/Redux/Router Starter Project
+# Testing Backup / Coding Environment Setup
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
-
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
+* homebrew
+* python3
+* pip (already installs with python3)
+* pipenv (includes pip and virtualenv)
+* node
+* npm
+* git
+* devcamp js builder
+* heroku cli
+* postman
